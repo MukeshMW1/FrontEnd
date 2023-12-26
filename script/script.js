@@ -8,7 +8,7 @@ const _login = () => {
 
 
     if (email === "AI@gmail.com" && password === "AIT") {
-        window.location.href = "html/next.html"
+        window.location.href = "../html/next.html"
     }
 
     else {
