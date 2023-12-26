@@ -1,6 +1,6 @@
 const login = () => {
-    let email = document.querySelector('input[type="email"]').value;
-    let password = document.querySelector('input[type="password"]').value;
+    const email = document.querySelector('input[type="email"]').value;
+    const password = document.querySelector('input[type="password"]').value;
 
 
 
